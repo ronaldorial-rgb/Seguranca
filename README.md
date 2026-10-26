@@ -67,10 +67,10 @@ Essa organização facilita a manutenção e permite adicionar novas estratégia
 
 ## Limitações
 
-Este projeto é uma simulação educacional. As credenciais são definidas no código, o bloqueio vale apenas durante a execução atual e a notificação à segurança central é exibida somente no terminal.
+Este projeto é uma simulação educacional. As credenciais são definidas no código, o bloqueio vale apenas durante a execução atual e a notificação à segurança central é exibida somente no terminal. 
 
 O sistema não controla portões físicos e não deve ser utilizado como solução real de segurança.
 
 ## Autor
-
+Ronaldo Rial, aprendiz de QA e atualmente porteiro...
 Projeto desenvolvido como prática de Java e padrões de projeto, com foco no aprendizado contínuo e na transição para a área de Tecnologia da Informação.
